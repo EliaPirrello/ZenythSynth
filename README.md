@@ -1,6 +1,6 @@
-# Zenynth
+# Zenyth
 
-Zenynth is a minimal powerful Semi-Modular Synthetizer, able to generate all of the most iconic Synth's sounds.
+Zenyth is a minimal powerful Semi-Modular Synthetizer, able to generate all of the most iconic Synth's sounds.
 
 It features infinite Synth Engines (of 4 different types), Noise generators, 3 Filter Chains, and 3 FX chains (each one made by 5 effects to choose from: Delay, Reverb, Distortion, Vibrato, Pan, and Chorus).
 5 freely assignables Modulators and a main ADSR Envelope allow to shape the sound further and produce crazy noises.
